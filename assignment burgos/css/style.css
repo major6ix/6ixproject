@@ -1,0 +1,10 @@
+a{
+    color: black;
+    text-decoration: none;
+}
+.active{
+    color: #fbb731;
+}
+.container{
+    display: flex;
+}
